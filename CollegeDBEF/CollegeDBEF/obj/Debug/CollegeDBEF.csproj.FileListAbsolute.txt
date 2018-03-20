@@ -1,0 +1,14 @@
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\CollegeDBEF.exe.config
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\CollegeDBEF.exe
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\CollegeDBEF.pdb
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\EntityFramework.dll
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\EntityFramework.xml
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.exe
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.pdb
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.Migrations.InitialCreate.resources
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.csproj.GenerateResource.Cache
+C:\Users\ClevelandCodes\source\repos\CollegeDBEF\CollegeDBEF\obj\Debug\CollegeDBEF.Migrations.Migration1.resources
